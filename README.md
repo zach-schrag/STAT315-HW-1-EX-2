@@ -16,7 +16,7 @@ git clone <Repo SSH>
 ```
 
 ## Step 2:
-Create a new jupyter notebook file and name the file with this pattern: \<Full Name>_test.ipynb\
+Create a new jupyter notebook file and name the file with this pattern: \<Full Name>_test.ipynb
 
 e.g. Norman_Lo_test.ipynb
 
