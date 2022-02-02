@@ -7,7 +7,7 @@ Fork this repository to your GitHub.
 
 ![forking](img/forking.png)
 
-i. Click on the [fork] icon on the right-hand upper corner on the page.
+i. Click on the [fork] icon on the right-hand upper corner on the page.  
 ii. Select your account and confirm forking.
 
 ## Step 2:
@@ -68,7 +68,7 @@ Add your name to the readme file.
 
 ![readme](img/readme.png)
 
-i. Click on the pen icon on the right-hand upper corner of the readme section.
+i. Click on the pen icon on the right-hand upper corner of the readme section.  
 ii. Edit the readme document by adding your name to the document.
 
 e.g. \#Git-Exercise by Norman Lo
