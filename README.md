@@ -5,7 +5,7 @@ In this repository, students will practice using Git and GitHub. Please follow t
 ## Step 1:
 Fork this repository to your GitHub.
 
-!(forking)[img/forking.png]
+![forking](img/forking.png)
 
 Clone the repository to your local device.
 
@@ -20,7 +20,7 @@ Create a new jupyter notebook file and name the file with this pattern: \<Full N
 
 e.g. Norman_Lo_test.ipynb
 
-In this jupyter notebook file, students need to type the following in a code block.
+In this jupyter notebook file, students need to type the following in a code block and write a short comment to describe the code.
   
 ``` python
 x = [10, 20, 30, 40, 50]
@@ -34,7 +34,7 @@ for i in x:
 print(result)
 ```
   
-Note: Make sure you save the file after you finish writing the code and print out the result.
+**Note:** Make sure you save the file after you finish writing the code and print out the result.
 
 ## Step 3:
 Push the update to the remote repository on GitHub.
@@ -62,7 +62,7 @@ git push
 ## Step 4:
 Add your name to the readme file.
 
-!(readme)[img/readme.png]
+![readme](img/readme.png)
 
 ## Step 5:
 Pull the updated readme back to the local device.
