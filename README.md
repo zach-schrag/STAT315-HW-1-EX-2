@@ -7,15 +7,19 @@ Fork this repository to your GitHub.
 
 ![forking](img/forking.png)
 
+i. Click on the [fork] icon on the right-hand upper corner on the page.
+ii. Select your account and confirm forking.
+
+## Step 2:
 Clone the repository to your local device.
 
-Use the following command in the termial:
+**cd** to Desktop and use the following command in the termial:
 
 ```
 git clone <Repo SSH>
 ```
 
-## Step 2:
+## Step 3:
 Create a new jupyter notebook file and name the file with this pattern: \<Full Name>_test.ipynb
 
 e.g. Norman_Lo_test.ipynb
@@ -36,7 +40,7 @@ print(result)
   
 **Note:** Make sure you save the file after you finish writing the code and print out the result.
 
-## Step 3:
+## Step 4:
 Push the update to the remote repository on GitHub.
 
 Use the following command:
@@ -59,12 +63,17 @@ iii. Pushing the update / change back to the cloud or remote repo
 git push
 ```
 
-## Step 4:
+## Step 5:
 Add your name to the readme file.
 
 ![readme](img/readme.png)
 
-## Step 5:
+i. Click on the pen icon on the right-hand upper corner of the readme section.
+ii. Edit the readme document by adding your name to the document.
+
+e.g. \#Git-Exercise by Norman Lo
+
+## Step 6:
 Pull the updated readme back to the local device.
 
 Use the following command:
