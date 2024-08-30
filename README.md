@@ -20,7 +20,7 @@ git clone <Repo SSH>
 ```
 
 ## Step 3:
-Create a new jupyter notebook file and name the file with this pattern: \<Full Name>_test.ipynb
+Create a new jupyter notebook file and name the file with this pattern: \<your "secret STAT 315 ID">_test.ipynb
 
 e.g. Norman_Lo_test.ipynb
 
@@ -64,14 +64,14 @@ git push
 ```
 
 ## Step 5:
-Add your name to the readme file.
+Add your "secret STAT 315 ID" to the readme file.
 
 ![readme](img/readme.png)
 
 i. Click on the pen icon on the right-hand upper corner of the readme section.  
 ii. Edit the readme document by adding your name to the document.
 
-e.g. \#Git-Exercise by Norman Lo
+e.g. \#Git-Exercise: STAT ID 927
 
 ## Step 6:
 Pull the updated readme back to the local device.
