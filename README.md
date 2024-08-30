@@ -20,9 +20,9 @@ git clone <Repo SSH>
 ```
 
 ## Step 3:
-Create a new jupyter notebook file and name the file with this pattern: \<your "secret STAT 315 ID">_test.ipynb
+Create a new jupyter notebook file and name the file with this pattern: \<your secret STAT 315 ID>_test.ipynb
 
-e.g. Norman_Lo_test.ipynb
+e.g. 927_test.ipynb   if your "secret STAT 315 ID" is 927
 
 In this jupyter notebook file, students need to type the following in a code block and write a short comment to describe the code.
   
