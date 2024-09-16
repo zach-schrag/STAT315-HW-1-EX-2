@@ -1,4 +1,5 @@
 # HW 1 EX 2
+# Zach Schrag | 393
 
 In this repository, students will practice using Git and GitHub. Please follow the instruction below to complete your task.
 
@@ -71,7 +72,7 @@ Add your "secret STAT 315 ID" to the readme file.
 i. Click on the pen icon on the right-hand upper corner of the readme section.  
 ii. Edit the readme document by adding your name to the document.
 
-e.g. \#Git-Exercise: STAT ID 393
+e.g. \#Git-Exercise: STAT ID 927
 
 ## Step 6:
 Pull the updated readme back to the local device.
